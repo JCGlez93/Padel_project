@@ -6,7 +6,7 @@
 
 During COVID 19 new sports have emerged and become popular.In Spain , where I currently live, many people started to practise padel as a sport.
 That unexpected new trend made investors to put an eye on padel , creating new facilities.
-As a curious and passionate person about sport , I decided to ask myself this question : 
+As a curious and passionate person about sports , I decided to ask myself this question : 
 - what makes padel an attractive investment to an investor?
 
 As a first step , I will understand the market :
@@ -72,11 +72,10 @@ Any execution must be done from a jupyter notebook so it works perfectly.
 1- Run all the jupyter notebook\
 2- Read all the comments per section as it will help you to suggest new analysis
 
-set. Ideally you can use dummy variables to increase R2 but you will not be able to create a usable GUI
 
 ## **To Do**
 
-- Understand customer retention per tenant
+- Understand customer retention per tenant --> cohort analysis
 - Understand better those parameters that makes a team win in a match
 - Create a ML algorithm that helps you to predict which team is going to win
 
