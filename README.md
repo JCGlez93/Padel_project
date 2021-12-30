@@ -54,7 +54,11 @@ Check test execution to understand how  to deploy  and execute the .ipynb.
 
 - Conda
 
-- Glon
+- Glob
+
+- Ast
+
+- Regex
 
 
 ## **Instalation:**
